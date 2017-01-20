@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "SampleIntent",
+      "slots": [
+        {
+          "name": "number",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
